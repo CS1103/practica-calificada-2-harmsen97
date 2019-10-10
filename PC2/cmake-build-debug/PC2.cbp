@@ -82,9 +82,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/jeronimo/Desktop/PC2/cmake-build-debug/heap.cpp">
-			<Option target="PC2"/>
-		</Unit>
 		<Unit filename="/Users/jeronimo/Desktop/PC2/heap.h">
 			<Option target="PC2"/>
 		</Unit>

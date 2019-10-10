@@ -6,30 +6,10 @@
 
 #IncludeRegexTransform: 
 
-.././heap.h
-iostream
--
-string
--
-cstdlib
--
-
-/Users/jeronimo/Desktop/PC2/cmake-build-debug/heap.cpp
-iostream
--
-string
--
-cstdlib
--
-heap.h
-/Users/jeronimo/Desktop/PC2/cmake-build-debug/heap.h
-
 /Users/jeronimo/Desktop/PC2/heap.h
-iostream
+fstream
 -
 string
--
-cstdlib
 -
 
 /Users/jeronimo/Desktop/PC2/main.cpp

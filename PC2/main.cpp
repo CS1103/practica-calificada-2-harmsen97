@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 
-    heap<int> h;
+    heap <vector<int>> h;
     load_from("data.txt", h);
     cout << "heap" << endl;
     cout << h;

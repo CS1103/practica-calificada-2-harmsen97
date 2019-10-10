@@ -6,7 +6,7 @@
 #define PC2_HEAP_H
 
 
-#include <f>
+#include <fstream>
 #include <string>
 
 
@@ -14,7 +14,7 @@
 template <typename T, typename contenedor>
 class heap {
 public:
-    static T vec1;
+    static contenedor vec1;
 
 
 //devuelve el valor maximo
@@ -42,7 +42,7 @@ public:
 
 
     //devuelve el tamano
-    T heap<T>::get_size() {
+    auto heap<T,contenedor>::get_size() {
 
         return vec1.size();
     }

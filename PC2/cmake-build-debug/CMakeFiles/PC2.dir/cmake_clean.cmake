@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/PC2.dir/heap.cpp.o"
   "CMakeFiles/PC2.dir/main.cpp.o"
   "PC2.pdb"
   "PC2"
